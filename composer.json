@@ -1,0 +1,11 @@
+{
+    "name": "fhariano/son-laravel-location",
+    "description": "Curso Laravel Package Discovery",
+    "authors": [
+        {
+            "name": "Flavio Ariano",
+            "email": "fhariano@gmail.com"
+        }
+    ],
+    "require": {}
+}
