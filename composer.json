@@ -12,5 +12,15 @@
         "psr-4": {
             "Modules\\Location\\": "./"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Location\\Providers\\LocationServiceProvider"
+            ]
+        },
+        "aliases": {
+            "Location": "Modules\\Location\\Facades\\Location"
+        }
     }
 }
